@@ -38,8 +38,6 @@ Replace `http://192.168.4.1` with your ESP8266's IP address.
 - Adjust joystick size, transparency, and sensitivity.
 - Modify the ESP8266 endpoints as needed.
 
-## 📸 Screenshots
-*(Add images or GIFs here to showcase the joystick in action!)*
 
 ## 🏗️ Installation
 1. Clone this repository: 
