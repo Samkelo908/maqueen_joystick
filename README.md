@@ -38,12 +38,19 @@ Replace `http://192.168.4.1` with your ESP8266's IP address.
 - Adjust joystick size, transparency, and sensitivity.
 - Modify the ESP8266 endpoints as needed.
 
+## 🏗️ MakeCode MqueenPlusV2
+1. MakeCode code: 
+   ```sh
+   https://makecode.microbit.org/S63407-28139-04046-07831
+   ```
 
 ## 🏗️ Installation
 1. Clone this repository: 
    ```sh
    https://github.com/Samkelo908/maqueen_joystick.git
    ```
+
+   
 2. Open the project in Android Studio.
 3. Modify `esp8266Ip` to match your device's IP.
 4. Run the app on an Android device. 📱✅
