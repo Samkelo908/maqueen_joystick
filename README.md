@@ -44,7 +44,7 @@ Replace `http://192.168.4.1` with your ESP8266's IP address.
 ## 🏗️ Installation
 1. Clone this repository: 
    ```sh
-   git clone https://github.com/yourusername/joystick-controller.git
+   https://github.com/Samkelo908/maqueen_joystick.git
    ```
 2. Open the project in Android Studio.
 3. Modify `esp8266Ip` to match your device's IP.
